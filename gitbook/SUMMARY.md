@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
+* [Quickstart 123](getting-started/quickstart-123.md)
 * [Your first project](getting-started/your-first-project.md)
 
 ## Core concepts
